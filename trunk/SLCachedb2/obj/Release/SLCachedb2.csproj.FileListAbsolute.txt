@@ -1,0 +1,32 @@
+C:\Documents and Settings\User1\Documenti\SLCacheDB2\SLCachedb2\SLCachedb2\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\User1\Documenti\SLCacheDB2\SLCachedb2\SLCachedb2\obj\Release\SLCachedb2.Form1.resources
+C:\Documents and Settings\User1\Documenti\SLCacheDB2\SLCachedb2\SLCachedb2\obj\Release\SLCachedb2.Properties.Resources.resources
+C:\Documents and Settings\User1\Documenti\SLCacheDB2\SLCachedb2\SLCachedb2\obj\Release\SLCachedb2.csproj.GenerateResource.Cache
+C:\Documents and Settings\User1\Documenti\SLCacheDB2\SLCachedb2\SLCachedb2\bin\Release\SLCachedb2.exe
+C:\Documents and Settings\User1\Documenti\SLCacheDB2\SLCachedb2\SLCachedb2\bin\Release\SLCachedb2.pdb
+C:\Documents and Settings\User1\Documenti\SLCacheDB2\SLCachedb2\SLCachedb2\obj\Release\SLCachedb2.exe
+C:\Documents and Settings\User1\Documenti\SLCacheDB2\SLCachedb2\SLCachedb2\obj\Release\SLCachedb2.pdb
+C:\Documents and Settings\User1\Documenti\SLCacheDB2\Copia di SLCachedb2\SLCachedb2\bin\Release\SLCachedb2.exe
+C:\Documents and Settings\User1\Documenti\SLCacheDB2\Copia di SLCachedb2\SLCachedb2\bin\Release\SLCachedb2.pdb
+C:\Documents and Settings\User1\Documenti\SLCacheDB2\Copia di SLCachedb2\SLCachedb2\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\User1\Documenti\SLCacheDB2\Copia di SLCachedb2\SLCachedb2\obj\Release\SLCachedb2.Form1.resources
+C:\Documents and Settings\User1\Documenti\SLCacheDB2\Copia di SLCachedb2\SLCachedb2\obj\Release\SLCachedb2.Properties.Resources.resources
+C:\Documents and Settings\User1\Documenti\SLCacheDB2\Copia di SLCachedb2\SLCachedb2\obj\Release\SLCachedb2.csproj.GenerateResource.Cache
+C:\Documents and Settings\User1\Documenti\SLCacheDB2\Copia di SLCachedb2\SLCachedb2\obj\Release\SLCachedb2.exe
+C:\Documents and Settings\User1\Documenti\SLCacheDB2\Copia di SLCachedb2\SLCachedb2\obj\Release\SLCachedb2.pdb
+C:\Documents and Settings\User1\Documenti\SLCacheDB2\SLCachedb2Anim\SLCachedb2\bin\Release\SLCachedb2.exe
+C:\Documents and Settings\User1\Documenti\SLCacheDB2\SLCachedb2Anim\SLCachedb2\bin\Release\SLCachedb2.pdb
+C:\Documents and Settings\User1\Documenti\SLCacheDB2\SLCachedb2Anim\SLCachedb2\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\User1\Documenti\SLCacheDB2\SLCachedb2Anim\SLCachedb2\obj\Release\SLCachedb2.Form1.resources
+C:\Documents and Settings\User1\Documenti\SLCacheDB2\SLCachedb2Anim\SLCachedb2\obj\Release\SLCachedb2.Properties.Resources.resources
+C:\Documents and Settings\User1\Documenti\SLCacheDB2\SLCachedb2Anim\SLCachedb2\obj\Release\SLCachedb2.csproj.GenerateResource.Cache
+C:\Documents and Settings\User1\Documenti\SLCacheDB2\SLCachedb2Anim\SLCachedb2\obj\Release\SLCachedb2.exe
+C:\Documents and Settings\User1\Documenti\SLCacheDB2\SLCachedb2Anim\SLCachedb2\obj\Release\SLCachedb2.pdb
+E:\SLCachedb2Anim\SLCachedb2\obj\Release\SLCachedb2.exe
+E:\SLCachedb2Anim\SLCachedb2\obj\Release\SLCachedb2.pdb
+E:\SLCachedb2Anim\SLCachedb2\obj\Release\ResolveAssemblyReference.cache
+E:\SLCachedb2Anim\SLCachedb2\obj\Release\SLCachedb2.Form1.resources
+E:\SLCachedb2Anim\SLCachedb2\obj\Release\SLCachedb2.Properties.Resources.resources
+E:\SLCachedb2Anim\SLCachedb2\obj\Release\SLCachedb2.csproj.GenerateResource.Cache
+E:\SLCachedb2Anim\SLCachedb2\bin\Release\SLCachedb2.exe
+E:\SLCachedb2Anim\SLCachedb2\bin\Release\SLCachedb2.pdb
