@@ -1,0 +1,75 @@
+D:\MYPROXY SL\MyNewProxy\obj\Debug\ResolveAssemblyReference.cache
+D:\MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.MainForm.resources
+D:\MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.PreviewTGA.resources
+D:\MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.Properties.Resources.resources
+D:\MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.csproj.GenerateResource.Cache
+D:\Copia di MYPROXY SL\MyNewProxy\bin\Debug\MyNewProxy.exe.manifest
+D:\Copia di MYPROXY SL\MyNewProxy\bin\Debug\MyNewProxy.application
+D:\Copia di MYPROXY SL\MyNewProxy\bin\Debug\MyNewProxy.exe
+D:\Copia di MYPROXY SL\MyNewProxy\bin\Debug\MyNewProxy.pdb
+D:\Copia di MYPROXY SL\MyNewProxy\bin\Debug\GridProxy.dll
+D:\Copia di MYPROXY SL\MyNewProxy\bin\Debug\OpenMetaverse.dll
+D:\Copia di MYPROXY SL\MyNewProxy\bin\Debug\OpenMetaverse.StructuredData.dll
+D:\Copia di MYPROXY SL\MyNewProxy\bin\Debug\OpenMetaverseTypes.dll
+D:\Copia di MYPROXY SL\MyNewProxy\bin\Debug\TargaImage.dll
+D:\Copia di MYPROXY SL\MyNewProxy\bin\Debug\XMLRPC.dll
+D:\Copia di MYPROXY SL\MyNewProxy\bin\Debug\log4net.dll
+D:\Copia di MYPROXY SL\MyNewProxy\obj\Debug\ResolveAssemblyReference.cache
+D:\Copia di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.MainForm.resources
+D:\Copia di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.PreviewTGA.resources
+D:\Copia di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.Properties.Resources.resources
+D:\Copia di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.csproj.GenerateResource.Cache
+D:\Copia di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.TrustInfo.xml
+D:\Copia di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.exe.manifest
+D:\Copia di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.application
+D:\Copia di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.exe
+D:\Copia di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.pdb
+D:\Copia di Lavoro di MYPROXY SL\MyNewProxy\bin\Debug\MyNewProxy.exe.manifest
+D:\Copia di Lavoro di MYPROXY SL\MyNewProxy\bin\Debug\MyNewProxy.application
+D:\Copia di Lavoro di MYPROXY SL\MyNewProxy\bin\Debug\MyNewProxy.exe
+D:\Copia di Lavoro di MYPROXY SL\MyNewProxy\bin\Debug\MyNewProxy.pdb
+D:\Copia di Lavoro di MYPROXY SL\MyNewProxy\bin\Debug\GridProxy.dll
+D:\Copia di Lavoro di MYPROXY SL\MyNewProxy\bin\Debug\OpenMetaverse.dll
+D:\Copia di Lavoro di MYPROXY SL\MyNewProxy\bin\Debug\OpenMetaverse.StructuredData.dll
+D:\Copia di Lavoro di MYPROXY SL\MyNewProxy\bin\Debug\OpenMetaverseTypes.dll
+D:\Copia di Lavoro di MYPROXY SL\MyNewProxy\bin\Debug\TargaImage.dll
+D:\Copia di Lavoro di MYPROXY SL\MyNewProxy\bin\Debug\XMLRPC.dll
+D:\Copia di Lavoro di MYPROXY SL\MyNewProxy\bin\Debug\log4net.dll
+D:\Copia di Lavoro di MYPROXY SL\MyNewProxy\obj\Debug\ResolveAssemblyReference.cache
+D:\Copia di Lavoro di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.MainForm.resources
+D:\Copia di Lavoro di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.PreviewTGA.resources
+D:\Copia di Lavoro di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.Properties.Resources.resources
+D:\Copia di Lavoro di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.csproj.GenerateResource.Cache
+D:\Copia di Lavoro di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.TrustInfo.xml
+D:\Copia di Lavoro di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.exe.manifest
+D:\Copia di Lavoro di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.application
+D:\Copia di Lavoro di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.exe
+D:\Copia di Lavoro di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.pdb
+E:\Copia di Lavoro di MYPROXY SL\MyNewProxy\obj\Debug\ResolveAssemblyReference.cache
+E:\Copia di Lavoro di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.MainForm.resources
+E:\Copia di Lavoro di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.PreviewTGA.resources
+E:\Copia di Lavoro di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.Properties.Resources.resources
+E:\Copia di Lavoro di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.csproj.GenerateResource.Cache
+E:\Copia di Lavoro di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.TrustInfo.xml
+E:\Copia di Lavoro di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.exe.manifest
+E:\Copia di Lavoro di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.exe
+E:\Copia di Lavoro di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.pdb
+E:\Copia di Lavoro di MYPROXY SL\MyNewProxy\bin\Debug\MyNewProxy.exe.manifest
+E:\Copia di Lavoro di MYPROXY SL\MyNewProxy\bin\Debug\MyNewProxy.application
+E:\Copia di Lavoro di MYPROXY SL\MyNewProxy\bin\Debug\MyNewProxy.exe
+E:\Copia di Lavoro di MYPROXY SL\MyNewProxy\bin\Debug\MyNewProxy.pdb
+E:\Copia di Lavoro di MYPROXY SL\MyNewProxy\bin\Debug\GridProxy.dll
+E:\Copia di Lavoro di MYPROXY SL\MyNewProxy\bin\Debug\OpenMetaverse.dll
+E:\Copia di Lavoro di MYPROXY SL\MyNewProxy\bin\Debug\OpenMetaverse.StructuredData.dll
+E:\Copia di Lavoro di MYPROXY SL\MyNewProxy\bin\Debug\OpenMetaverseTypes.dll
+E:\Copia di Lavoro di MYPROXY SL\MyNewProxy\bin\Debug\TargaImage.dll
+E:\Copia di Lavoro di MYPROXY SL\MyNewProxy\bin\Debug\XMLRPC.dll
+E:\Copia di Lavoro di MYPROXY SL\MyNewProxy\bin\Debug\log4net.dll
+E:\Copia di Lavoro di MYPROXY SL\MyNewProxy\obj\Debug\MyNewProxy.application
+E:\SL Fishing\obj\Debug\ResolveAssemblyReference.cache
+E:\SL Fishing\obj\Debug\FishingProxy.MainForm.resources
+E:\SL Fishing\obj\Debug\FishingProxy.PreviewTGA.resources
+E:\SL Fishing\obj\Debug\MyNewProxy.Properties.Resources.resources
+E:\SL Fishing\obj\Debug\MyNewProxy.csproj.GenerateResource.Cache
+E:\SL Fishing\obj\Debug\MyNewProxy.exe
+E:\SL Fishing\obj\Debug\MyNewProxy.pdb
