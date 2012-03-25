@@ -22,7 +22,7 @@ The use however is quite simple.
 6. Press the button "Monitor On" (You will see the list of animations in the list box).
 
 7. When the number of animations readed are stabilized, press the "Monitor Off" button.
-
+--------------------------
 Pay attention to the launch sequence of programs and their closure:
 
 Opening:
@@ -36,21 +36,21 @@ Closing:
 a) close the viewer
 
 b) close the form AnimList
-
+---------------------------
 
 If the viewer does not allow you to select the Grid
 
-* Make a copy of your shortcut to your viewer, and rename it as you like.
+  Make a copy of your shortcut to your viewer, and rename it as you like.
 
-* Right click on this shortcut, select "properties", 
+  Right click on this shortcut, select "properties", 
 
-* In the window that pops up, edit the "target" field only. Use your arrow keys to (press right arrow) move to the very end of the text 
+  In the window that pops up, edit the "target" field only. Use your arrow keys to (press right arrow) move to the very end of the text 
 
-* Copy the next line, and paste it in there at the very end. 
+  Copy the next line, and paste it in there at the very end. 
                        
          -loginuri http://localhost:8080/ 
 
-* Press "OK" then double click your new shortcut, you done! 
+  Press "OK" then double click your new shortcut, you done! 
 
 
 If the Avatar is linked to some object (like poseballs) then the resident's name  will not be transferred to the textbox in the proxy form and you must manually write the name in the textbox (it's OK to copy and paste from profile).
