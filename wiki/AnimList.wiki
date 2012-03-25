@@ -6,6 +6,7 @@ Details on the Borg blog at  http://metadventures.blogspot.com/.
 
 = How to use =
 Download the release directory from ../source/AnimList/trunk/bin/
+
 The use however is quite simple.
 1. Launch AnimList.exe
 2. Open the viewer and select the Grid http://localhost:8080 (create it if not there)
@@ -24,8 +25,9 @@ b) open the viewer
 Closing:
 a) close the viewer
 b) close the form AnimList
-If the viewer does not allow you to select the Grid
 
+
+If the viewer does not allow you to select the Grid
 
 * Make a copy of your shortcut to your viewer, and rename it as you like.
 
