@@ -26,7 +26,8 @@ The use however is quite simple.
 Pay attention to the launch sequence of programs and their closure:
 
 Opening:
-a) launch AnimList.exe
+
+a) launch AnimList.exe.
 b) open the viewer
 
 Closing:
