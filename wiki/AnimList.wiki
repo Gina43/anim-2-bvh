@@ -40,7 +40,7 @@ b) close the form AnimList
 
 If the viewer does not allow you to select the Grid
 
-  Make a copy of your shortcut to your viewer, and rename it as you like.
+  Make a copy of shortcut to your viewer, and rename it as you like.
 
   Right click on this shortcut, select "properties", 
 
