@@ -28,10 +28,13 @@ Pay attention to the launch sequence of programs and their closure:
 Opening:
 
 a) launch AnimList.exe.
+
 b) open the viewer
 
 Closing:
+
 a) close the viewer
+
 b) close the form AnimList
 
 
