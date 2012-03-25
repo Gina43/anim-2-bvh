@@ -1,10 +1,10 @@
-=AnimList is a small utility to get the list (UUID) of Avatar animations IW.=
+=SLAnimList is a small utility to get the list (UUID) of Avatar animations IW.=
 
 This is a proxy based on the LibOpenmetaverse library (Grid Proxy).
 Thanks to Mockba the Borg. I used the sources of his MyNewProxy, modifying and restricting the analysis to the animation packets.
 Details on the Borg blog at  http://metadventures.blogspot.com/.
 
-= How to use =
+== How to use ==
 Download the release directory from ../source/svn/trunk/SLProxyAnimListFolder/SLProxyAnimList/bin/
 
 The use however is quite simple.
