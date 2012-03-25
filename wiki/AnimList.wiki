@@ -10,8 +10,7 @@ Download the release directory from ../source/svn/trunk/SLProxyAnimListFolder/SL
 The use however is quite simple.
 
  # Launch AnimList.exe
-
-   Open the viewer and select the Grid 'http://localhost:8080' (create it if not there)
+Open the viewer and select the Grid 'http://localhost:8080' (create it if not there)
 
  # Log in
 
