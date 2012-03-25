@@ -5,11 +5,13 @@ Thanks to Mockba the Borg. I used the sources of his MyNewProxy, modifying and r
 Details on the Borg blog at  http://metadventures.blogspot.com/.
 
 = How to use =
-Download the release directory from ../source/AnimList/trunk/bin/
+Download the release directory from ../source/ProxyAnimListFolder/ProxyAnimList/bin/
 
 The use however is quite simple.
 # 1. Launch AnimList.exe
+
 # 2. Open the viewer and select the Grid http://localhost:8080 (create it if not there)
+
 3. Log in
 4. Place the cursor on the avatar which you want the list of animations.
 5. The name of the Resident will appear in the textbox "Selected avatar" on the proxy form.
