@@ -5,7 +5,8 @@ Thanks to Mockba the Borg. I used the sources of his MyNewProxy, modifying and r
 Details on the Borg blog at  http://metadventures.blogspot.com/.
 
 == How to use ==
-Download the release directory from ../source/svn/trunk/SLProxyAnimListFolder/SLProxyAnimList/bin/
+Download the SLAnimList.rar file, unrar it.
+Go to the release directory
 
 The use however is quite simple.
 
