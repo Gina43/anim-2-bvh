@@ -24,7 +24,7 @@ The use however is quite simple.
 
 7. When the number of animations is stabilized, press the "Monitor Off" button.
 --------------------------
-Pay attention to the launch sequence of programs and their closure:
+Pay attention to the launch and closure sequence of programs:
 
 Opening:
 
@@ -58,6 +58,7 @@ If the Avatar is linked to some object (like poseballs) then the resident's name
 
 It will create a new folder for each avatar monitored.
 The folder contains a file named " Animation list.txt ". 
-The folder will be created in the directory where the file AnimList.exe resides.
+The folder will be created in the directory where  resides the file AnimList.exe.
+
 
 The file "Animation list.text" is formatted to be read by the utility "SLCachedb2"
