@@ -61,4 +61,4 @@ The folder contains a file named " Animation list.txt ".
 The folder will be created in the directory where  resides the file AnimList.exe.
 
 
-The file "Animation list.text" is formatted to be read by the utility "SLCachedb2"
+The file "Animation list.txt" is formatted to be read by the utility "SLCachedb2"
