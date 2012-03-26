@@ -54,7 +54,7 @@ If the viewer does not allow you to select the Grid
   Press "OK" then double click your new shortcut, you done! 
 
 
-If the Avatar is linked to some object (like poseballs) then the resident's name  will not be transferred to the textbox in the proxy form and you must manually write the name in the textbox (it's OK to copy and paste from profile).
+If the Avatar is linked to some object (like poseballs) then the resident's name  will not be transferred to the textbox in the proxy form and you have to manually write the name in the textbox (it's OK to copy and paste from profile).
 
 It will create a new folder for each avatar monitored.
 The folder contains a file named " Animation list.txt ". 
