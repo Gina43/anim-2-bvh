@@ -14,11 +14,16 @@ The file-Anim.txt UUID contains a sample text file that the program reads.
 
 use:
 
-  1. Close the viewer .
+  1. Close the viewer.
+
   2. launch SLCachedb2.exe
+
   3. Select the text file containing the UUID of the animations (UUID List)
+
   4. It is proposed the path of the text file as the default file BVH destination. You can select a different path. (Output Dir)
+
   5. Press the "Read" button. The Found and Total textboxes show respectively the total number of animations in the list and those found in the cache.
+
   6. Press the "Write BVH Files" button.
 
 The data in the local caches remain for a limited time. This is because the oldest data is deleted to make room for new data.
