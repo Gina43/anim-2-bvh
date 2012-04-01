@@ -1,0 +1,16 @@
+C:\AninToBVH_VS2008\AninToBVH\bin\Release\AninToBVH.exe
+C:\AninToBVH_VS2008\AninToBVH\bin\Release\AninToBVH.pdb
+C:\AninToBVH_VS2008\AninToBVH\obj\Release\ResolveAssemblyReference.cache
+C:\AninToBVH_VS2008\AninToBVH\obj\Release\AninToBVH.Form1.resources
+C:\AninToBVH_VS2008\AninToBVH\obj\Release\AninToBVH.Properties.Resources.resources
+C:\AninToBVH_VS2008\AninToBVH\obj\Release\AninToBVH.csproj.GenerateResource.Cache
+C:\AninToBVH_VS2008\AninToBVH\obj\Release\AninToBVH.exe
+C:\AninToBVH_VS2008\AninToBVH\obj\Release\AninToBVH.pdb
+G:\EX C\AninToBVH_VS2008\AninToBVH\obj\Release\AninToBVH.exe
+G:\EX C\AninToBVH_VS2008\AninToBVH\obj\Release\AninToBVH.pdb
+G:\EX C\AninToBVH_VS2008\AninToBVH\bin\Release\AninToBVH.exe
+G:\EX C\AninToBVH_VS2008\AninToBVH\bin\Release\AninToBVH.pdb
+G:\EX C\AninToBVH_VS2008\AninToBVH\obj\Release\ResolveAssemblyReference.cache
+G:\EX C\AninToBVH_VS2008\AninToBVH\obj\Release\AninToBVH.Form1.resources
+G:\EX C\AninToBVH_VS2008\AninToBVH\obj\Release\AninToBVH.Properties.Resources.resources
+G:\EX C\AninToBVH_VS2008\AninToBVH\obj\Release\AninToBVH.csproj.GenerateResource.Cache
