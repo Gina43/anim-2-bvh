@@ -1,0 +1,14 @@
+#summary Convert the .anim files to BVH.
+
+= Files .anim to BVH converter=
+
+Download the AnimToBVH.rar file, unrar it.
+
+  
+1. Launch AnimToBVH.exe.
+
+ 
+2. Follows the instruction on the form legenda.
+
+ 
+------------------------------------------------------------------------
