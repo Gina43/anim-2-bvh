@@ -1,3 +1,5 @@
+#summary Get the animation UUID list IW.
+
 =SLAnimList is a small utility to get the list (UUID) of Avatar animations IW.=
 
 This is a proxy based on the LibOpenmetaverse library (Grid Proxy).
