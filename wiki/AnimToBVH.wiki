@@ -12,5 +12,5 @@ Download the AnimToBVH.rar file, unrar it.
 
  
 
-MultiFiles selection allowed
+ MultiFiles selection allowed
 ------------------------------------------------------------------------
