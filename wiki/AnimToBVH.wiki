@@ -11,4 +11,6 @@ Download the AnimToBVH.rar file, unrar it.
 2. Follows the instruction on the form legenda.
 
  
+
+MultiFiles selection allowed
 ------------------------------------------------------------------------
