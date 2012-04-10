@@ -64,3 +64,10 @@ The folder will be created in the directory where  resides the file AnimList.exe
 
 
 The file "Animation list.txt" is formatted to be read by the utility "SLCachedb2"
+
+= Version 1.30 =
+
+"Who" command added.
+This command shows the list of avatars currently within the drawing distance.
+This is the list of avatars that can currently be seen at the viewer, not the entire list of avatars connected to the region.
+The command is very useful when you need to manually enter the name of the resident. Just copy and paste the name from the list.
