@@ -1,8 +1,0 @@
-G:\EX C\AninToBVH_VS2008\AninToBVH\bin\Debug\AninToBVH.exe
-G:\EX C\AninToBVH_VS2008\AninToBVH\bin\Debug\AninToBVH.pdb
-G:\EX C\AninToBVH_VS2008\AninToBVH\obj\Debug\ResolveAssemblyReference.cache
-G:\EX C\AninToBVH_VS2008\AninToBVH\obj\Debug\AninToBVH.Form1.resources
-G:\EX C\AninToBVH_VS2008\AninToBVH\obj\Debug\AninToBVH.Properties.Resources.resources
-G:\EX C\AninToBVH_VS2008\AninToBVH\obj\Debug\AninToBVH.csproj.GenerateResource.Cache
-G:\EX C\AninToBVH_VS2008\AninToBVH\obj\Debug\AninToBVH.exe
-G:\EX C\AninToBVH_VS2008\AninToBVH\obj\Debug\AninToBVH.pdb
