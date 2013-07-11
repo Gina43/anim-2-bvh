@@ -1,4 +1,4 @@
-﻿using System;
+ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -25,15 +25,18 @@ namespace SLCachedb2
                 case "Mac":  
                     string userdata = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
                     int n = userdata.LastIndexOf('.');
-                    pathAppData = userdata.Substring(0, n ) + "Library/Application Support/SecondLife";
-                    pathLocAppData = userdata.Substring(0, n ) + "Library/Caches";
+                    //pathAppData = userdata.Substring(0, n ) + "Library/Application Support/SecondLife";
+                    pathAppData = userdata.Substring(0, n) + "Library/Application Support";
+                    pathLocAppData = userdata.Substring(0, n) + "Library/Caches";
                     break;
                 case "Unix":
-                    pathAppData = appDataPath() + "secondlife";
+                    //pathAppData = appDataPath() + "secondlife";
+                    pathAppData = appDataPath();
                     pathLocAppData = pathAppData;
                     break;
                 case "Win":
-                    pathAppData = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData)+"\\SecondLife";
+                    //pathAppData = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData)+"\\SecondLife";
+                    pathAppData = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
                     pathLocAppData = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
                     break;
                 case "Unknown":
