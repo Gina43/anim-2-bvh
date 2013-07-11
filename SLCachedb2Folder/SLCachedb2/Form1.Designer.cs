@@ -1,4 +1,4 @@
-﻿namespace SLCachedb2
+ namespace SLCachedb2
 {
     partial class Form1
     {
@@ -210,7 +210,7 @@
             this.labelTitle.Font = new System.Drawing.Font("Constantia", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelTitle.Location = new System.Drawing.Point(141, 18);
             this.labelTitle.Name = "labelTitle";
-            this.labelTitle.Size = new System.Drawing.Size(339, 18);
+            this.labelTitle.Size = new System.Drawing.Size(338, 18);
             this.labelTitle.TabIndex = 14;
             this.labelTitle.Text = "Generate BVH files from UUID animation List";
             // 
@@ -259,7 +259,7 @@
             // textFrom
             // 
             this.textFrom.AcceptsTab = true;
-            this.textFrom.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.textFrom.BackColor = System.Drawing.SystemColors.Control;
             this.textFrom.Cursor = System.Windows.Forms.Cursors.Default;
             this.textFrom.Location = new System.Drawing.Point(185, 89);
             this.textFrom.Name = "textFrom";
@@ -271,7 +271,7 @@
             // 
             // textTo
             // 
-            this.textTo.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.textTo.BackColor = System.Drawing.SystemColors.Control;
             this.textTo.Location = new System.Drawing.Point(385, 89);
             this.textTo.Name = "textTo";
             this.textTo.ReadOnly = true;
@@ -292,7 +292,7 @@
             // 
             // UpDownFromHour
             // 
-            this.UpDownFromHour.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.UpDownFromHour.BackColor = System.Drawing.SystemColors.Control;
             this.UpDownFromHour.Cursor = System.Windows.Forms.Cursors.Default;
             this.UpDownFromHour.Location = new System.Drawing.Point(260, 89);
             this.UpDownFromHour.Maximum = new decimal(new int[] {
@@ -315,7 +315,7 @@
             // 
             // UpDownFromMin
             // 
-            this.UpDownFromMin.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.UpDownFromMin.BackColor = System.Drawing.SystemColors.Control;
             this.UpDownFromMin.Location = new System.Drawing.Point(296, 89);
             this.UpDownFromMin.Maximum = new decimal(new int[] {
             60,
@@ -364,7 +364,7 @@
             // 
             // UpDownToHour
             // 
-            this.UpDownToHour.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.UpDownToHour.BackColor = System.Drawing.SystemColors.Control;
             this.UpDownToHour.Location = new System.Drawing.Point(460, 89);
             this.UpDownToHour.Maximum = new decimal(new int[] {
             24,
@@ -386,7 +386,7 @@
             // 
             // UpDownToMin
             // 
-            this.UpDownToMin.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.UpDownToMin.BackColor = System.Drawing.SystemColors.Control;
             this.UpDownToMin.Location = new System.Drawing.Point(496, 89);
             this.UpDownToMin.Maximum = new decimal(new int[] {
             60,
