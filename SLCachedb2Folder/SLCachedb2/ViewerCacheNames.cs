@@ -1,4 +1,4 @@
-﻿using System;
+ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -28,9 +28,40 @@ namespace SLCachedb2
             // SO depending directory separator character in the file path.
             string SC = System.IO.Path.DirectorySeparatorChar.ToString();
             // path where settings files are located
-            string filename = SSOO.pathAppData + SC + "user_settings";
+            string currPathIni = Environment.CurrentDirectory + SC + "viewer.ini";
+            if (!File.Exists(currPathIni))
+            {
+                StringBuilder llaa = new StringBuilder();
+                llaa.Append("/ Cache Analist - List of viewer to search.\r\n");
+                llaa.Append("/ New viewers can be added to the list. A viewer\r\n"); 
+                llaa.Append("/   name for each row.\r\n");
+                llaa.Append("/ Use just the viewer name. i.e. 'phoenix' is ok\r\n");
+                llaa.Append("/   'phoenixviewer' or 'phoenix_viewer' are wrong\r\n");
+                llaa.Append("secondlife\r\n");
+                llaa.Append("firestorm\r\n");
+                llaa.Append("phoenix\r\n");
+                StreamWriter sw = File.CreateText(currPathIni);
+                sw.Write(llaa.ToString());
+                sw.Close();
+            }
+            List<string> alV = new List<string>();
+            string filename;
+            string[] a1;
+            string[] ay = File.ReadAllLines(currPathIni);
+            for (int u = 0;u<ay.Length;u++)
+            {
+                if (ay[u].StartsWith("/"))
+                    continue;
+                if (!Directory.Exists(SSOO.pathAppData + SC + ay[u] + SC + "user_settings"))
+                    continue;
+                filename = SSOO.pathAppData + SC + ay[u] + SC + "user_settings";
+                a1 = Directory.GetFiles(filename, "settings*.xml");
+                for (int t = 0; t < a1.Length; t++)
+                    alV.Add(a1[t]);
+            }
             // aV is populated with path of founds settings files
-            string[] aV = Directory.GetFiles(filename, "settings*.xml");
+            //string[] aV = Directory.GetFiles(filename, "settings*.xml");
+            string[] aV = alV.ToArray();
 
             //
             string line;
@@ -59,13 +90,15 @@ namespace SLCachedb2
                 else                                    // not linden viewer settings
                 {
                     // directory of standard cache (viewerName + "viewer")
-                    foreach (string vvww in Enum.GetNames(typeof(nameViewer)))
-                    {
-                        if (aV[i].IndexOf(vvww) > 0)
+                    //foreach (string vvww in Enum.GetNames(typeof(nameViewer)))
+                    foreach (string vvww in ay)
+                        {
+                        if (aV[i].ToLower().IndexOf(vvww.ToLower()) > 0)
                         {
                             viewerType = vvww;
-                            if (vvww != "firestorm")
+                            if (vvww.ToLower() != "firestorm")
                                 viewerType += "viewer";
+                            break;
                         }
                     }
                 }
@@ -127,13 +160,13 @@ namespace SLCachedb2
             aViewerP = aDic.Keys.ToArray();
             aViewerT = aDic.Values.ToArray();
         }
-        public enum nameViewer
+/*        public enum nameViewer
         {
             phoenix = 1,
             singularity = 2,
             firestorm = 3,
             imprudence = 4,
             coolvl = 5
-        }
+        }*/
     }
 }
