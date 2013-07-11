@@ -1,4 +1,4 @@
-﻿using System;
+ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -116,12 +116,15 @@ namespace SLCachedb2
             int n = 0;
             for (int k = 0; k < MyviewerNames.aViewerP.Length; k++)
             {
-               string[] aIdba = Directory.GetFiles(MyviewerNames.aViewerP[k] + SC, "index.db2.*");
-               for (int ij = 0; ij < aIdba.Length; ++ij)
+               if (Directory.Exists(MyviewerNames.aViewerP[k]))
                {
-                    cacheFileName.Add(n, aIdba[ij]);
-                    n++;
-                }
+                   string[] aIdba = Directory.GetFiles(MyviewerNames.aViewerP[k] + SC, "index.db2.*");
+                   for (int ij = 0; ij < aIdba.Length; ++ij)
+                   {
+                        cacheFileName.Add(n, aIdba[ij]);
+                        n++;
+                   }
+               }
             }
             if (fromList)
             {
