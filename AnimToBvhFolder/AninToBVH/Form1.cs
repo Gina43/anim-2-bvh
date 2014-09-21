@@ -27,7 +27,7 @@ namespace AninToBVH
         private void bAnim_Click(object sender, EventArgs e)
         {
             labelSuccess.Text = "";
-            openFileDialog1.Filter = "anim files (*.anim)|*.anim|All files (*.*)|*.*";
+            openFileDialog1.Filter = "animatn files (*.animatn)|*.animatn|anim files (*.anim)|*.anim|All files (*.*)|*.*";
             openFileDialog1.FilterIndex = 1;
             openFileDialog1.Multiselect = true;
 
@@ -389,8 +389,8 @@ namespace AninToBVH
                     llsd.Append("MOTION" + NL);
 
                     llsd.Append("Frames: "); llsd.Append((int)mNumFrames); llsd.Append(NL);
-                    if (mNumFrames * mFrameTime > 30f) // not more then 30sec animation time
-                        mFrameTime = 30f / mNumFrames;
+                    if (mNumFrames * mFrameTime > 60f) // not more then 60sec animation time
+                        mFrameTime = 60f / mNumFrames;
                     llsd.Append("Frame Time: "); llsd.Append(NormStr((float)mFrameTime)); llsd.Append(NL);
 
                     for (i = 0; i < mNumFrames; ++i)
