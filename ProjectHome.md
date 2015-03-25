@@ -1,0 +1,1 @@
+Anim2Bvh is a stand-alone tools for the metaverse (OpenSim, SL). It works off line : Read cached data of recently used animation IW.
